@@ -9,4 +9,19 @@ VK | https://vk.com/s9myon
 Telegram | @s9myon
 
 ## Summary
-I want to become a developer. Currently I am looking for myself in different areas of computer development. Now I am a student in the field of Informatics and Computer Engineering. I have already tried many directions of programming. And now I am also exploring several directions. I like Java backend development and also try my hand at C # .NET development. I read many books on programming and try myself in programming courses. Last year I took a course on android development, but I could not devote enough time to it due to the congestion of the graphics. But I feel like I want to try myself in this.
+* I want to become a developer. Currently I am looking for myself in different areas of computer development. Now I am a student in the field of Informatics and Computer Engineering. I have already tried many directions of programming. And now I am also exploring several directions. I like Java backend development and also try my hand at C# .NET development. I read many books on programming and try myself in programming courses. Last year I took a course on android development, but I could not devote enough time to it due to the congestion of the graphics. But I feel like I want to try myself in this.
+
+## Skills
+* Java
+* C# .NET
+* JavaScript & Node
+* Git
+
+## Experience
+* [Code examples](https://github.com/s9myon?tab=repositories)
+
+## Education
+* Udmurt State University (2018 - ...)
+
+## English
+* I went to English courses in 20 before the pandemic. I have knowledge and skills at the A2 level. Recently I have been doing it myself.
