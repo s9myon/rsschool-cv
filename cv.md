@@ -24,4 +24,4 @@ Telegram | @s9myon
 * Udmurt State University (2018 - ...)
 
 ## English
-* I went to English courses in 20 before the pandemic. I have knowledge and skills at the A2 level. Recently I have been doing it myself.
+* I went to English courses in 2020 before the pandemic. I have knowledge and skills at the A2 level. Recently I have been doing it myself.
